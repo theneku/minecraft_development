@@ -1,10 +1,8 @@
 # LeafMC - Clan Plugin for the SMP
 
 This is a simple clan plugin for Paper/Spigot servers, developed to offer a lightweight, intuitive, and easily expandable clan system.  
-> [!DISCLAIMER]
-> This plugin is NOT in its final version.
-> Numerous implementations and improvements are still planned.
-> As it is easily noticeable, it will be integrated into the core of the SMP, therefore some features that can be integrated with Vault, LuckPerms, etc., have not yet been implemented.
+> [!DISCLAIMER]  
+> This plugin is NOT in its final version. Numerous implementations and improvements are still planned. As it is easily noticeable, it will be integrated into the core of the SMP, therefore some features that can be integrated with Vault, LuckPerms, etc., have not yet been implemented.
 
 ## Features
 
