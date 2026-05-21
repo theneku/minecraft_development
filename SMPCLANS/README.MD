@@ -31,13 +31,6 @@ This is a simple clan plugin for Paper/Spigot servers, developed to offer a ligh
 * JDBC and CompletableFuture
 * SQLite / MySQL 
 
-**USE**:  
-1. Compile the plugin using an IDE
-2. Place the file inside the `plugins/` folder
-3. Restart the server
-4. Configure the plugin
-
-
 ## Possible Future Implementations (Nothing is set in stone)
 
 * Clan war system
