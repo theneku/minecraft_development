@@ -1,0 +1,10 @@
+name: LeafMCClans
+version: '${project.version}'
+main: eu.neku.leafmc.clans.Loader
+api-version: '1.21'
+authors: [TheNeku]
+description: ASSASSASASASASAS
+
+commands:
+  clan:
+    aliases: [c]
