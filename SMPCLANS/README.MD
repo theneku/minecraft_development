@@ -41,12 +41,6 @@ This is a simple clan plugin for Paper/Spigot servers, developed to offer a ligh
 * Full MySQL storage (IF NEEDED)
 * Developer API (IF NEEDED)
 
-[![Watch the video](https://youtu.be/Z0uHukbDqVs)](https://youtu.be/Z0uHukbDqVs)
-
-[<img src="https://youtu.be/Z0uHukbDqVs" width="600" height="300"
-/>](https://youtu.be/Z0uHukbDqVs)
-
-
 ## README
 
 This project is currently distributed for development/testing purposes. As always, I recommend reading, understanding, and learning, rather than just skidding without awareness.
